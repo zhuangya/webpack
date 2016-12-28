@@ -310,7 +310,7 @@ If you want to discuss something or just need help, [here is our Gitter room](ht
         <img width="150" height="150" src="https://github.com/bebraw.png?s=150">
         <br>
         <a href="https://github.com/bebraw">Juho Vepsäläinen</a>
-        <p>Documentation<p>
+        <p>Documentation</p>
         <br>
         <p>Author</p>
         <a href="https://leanpub.com/survivejs-webpack">
@@ -322,7 +322,6 @@ If you want to discuss something or just need help, [here is our Gitter room](ht
         <br>
         <a href="https://github.com/spacek33z">Kees Kluskens</a>
         <p>Development</p>
-        <br>
         <br>
         <p>Sponsor<p>
         <a href="https://codeyellow.nl/">
